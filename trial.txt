@@ -1,0 +1,15 @@
+hello. welcome to linux
+this is a demo\
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+To append mp[more content
+[A[C[C[C[C[C[C[C[C[C[C$ ls -1
+Have a good day
+
+Learning linux
+
+voya training in java
+
+happy holi
+
+Hello welcome
+great day
